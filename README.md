@@ -111,20 +111,20 @@
 **1. **Focus on High-Revenue States****
   - Increase inventory
   - Launch regional offers in low-performing States
-  - For example: States like TX,CA,NC
+  - For example: States like _TX,CA,NC_
 
 **2. Boost High-Demand Products**
   - Maintain High-Demand Products stocks
   - Promote them on HomePage
-  - For example: Products like LED Desk Lamp, Water Bottle Memory Card 128GB
+  - For example: Products like _LED Desk Lamp, Water Bottle Memory Card 128GB_
 
 **3. Optimize Payment Methods**
-  - Promote most-used payment methods (like Credit Card, Debit Card)
+  - Promote most-used payment methods _(like Credit Card, Debit Card)_
   - Reduce friction in checkout so that payment methods like Cash on Delivery shifts to most-used payment methods
     
 **4. Performance Analysis of Linear Regression Model Using R² and RMSE**
-  - Independent Variable: Quantity, UnitPrice, Discount, Tax, ShippingCost
-  - Dependent Variables: TotalAmount
+  - Independent Variable: _Quantity, UnitPrice, Discount, Tax, ShippingCost_
+  - Dependent Variables: _TotalAmount_
   - Concludion:
     - 91% of the data, predicts TotalAmount quite accurately.
     - The average error is around 217 units.

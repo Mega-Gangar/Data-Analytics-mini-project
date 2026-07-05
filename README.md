@@ -1,4 +1,9 @@
 # Data-Analytics-mini-project
+| Data Set | Collab Link 
+|----------|----------|
+|  [Link](https://www.kaggle.com/datasets/rohiteng/amazon-sales-dataset/data)| [Link](https://github.com/Mega-Gangar/Data-Analytics-mini-project/blob/main/analysis_ipynbz.ipynb)  | 
+---
+## Collab Overview:
 ### Import Libraries
 <img src="https://github.com/Mega-Gangar/Data-Analytics-mini-project/blob/main/previews/modules.png">
 

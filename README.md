@@ -32,7 +32,7 @@
 <img src="https://github.com/Mega-Gangar/Data-Analytics-mini-project/blob/main/previews/Total_Orders.png">
 <img src="https://github.com/Mega-Gangar/Data-Analytics-mini-project/blob/main/previews/Average_Sales.png">
 <img src="https://github.com/Mega-Gangar/Data-Analytics-mini-project/blob/main/previews/Maximum_sales.png">
-<img src="https://github.com/Mega-Gangar/Data-Analytics-mini-project/blob/main/previews/Minimum_sales.png">
+<img src="https://github.com/Mega-Gangar/Data-Analytics-mini-project/blob/main/previews/Minimun_Sales.png">
 
 ---
 

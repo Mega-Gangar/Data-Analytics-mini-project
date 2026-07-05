@@ -101,7 +101,7 @@
 
 ---
 
-### #Performance Analysis of Linear Regression Model Using R² and RMSE
+### Performance Analysis of Linear Regression Model Using R² and RMSE
 <img src="https://github.com/Mega-Gangar/Data-Analytics-mini-project/blob/main/previews/Linear_Regression.png">
 
 ---
